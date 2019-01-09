@@ -1,12 +1,12 @@
 #!/bin/bash
-#title           :firewall.sh
-#description     :This script will install UFW and set up firewall rules.
-#author		 	 :Vedant
-#email           :vedant.kamlaskar@gmail.com
-#date            :12th November 2018
-#version         :1.0
-#usage		 	 :bash firewall.sh
-#bash_version    :GNU bash, version 4.3.48(1)-release 
+#title          :firewall.sh
+#description    :This script will install UFW and set up firewall rules.
+#author         :Vedant
+#email          :vedant.kamlaskar@gmail.com
+#date           :12th November 2018
+#version        :1.0
+#usage          :bash firewall.sh
+#bash_version   :GNU bash, version 4.3.48(1)-release 
 #==============================================================================
 App="ufw"    
 echo "Today's date is: $(date)"
